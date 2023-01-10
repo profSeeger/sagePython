@@ -8,3 +8,4 @@ JTS = "Manchester United"
 print(KAS, SRS, CJS, JLS)
 print("-------")
 print(KAS, SRS, CJS, JLS, JTS, sep=", ")
+print("Are some favorite teams.")
