@@ -1,4 +1,5 @@
 # Chris's Python
+# potential web resource https://www.studytonight.com/python/
 KAS = "Nottingham Forest"
 SRS = "Tottenham Hotspur"
 CJS = "Brighton & Hove Albion"
