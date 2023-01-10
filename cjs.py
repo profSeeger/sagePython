@@ -3,7 +3,8 @@ KAS = "Nottingham Forest"
 SRS = "Tottenham Hotspur"
 CJS = "Brighton & Hove Albion"
 JLS = "Manchester City"
+JTS = "Liverpool"
 
 print(KAS, SRS, CJS, JLS)
 print("-------")
-print(KAS, SRS, CJS, JLS, sep=", ")
+print(KAS, SRS, CJS, JLS, JTS, sep=", ")
